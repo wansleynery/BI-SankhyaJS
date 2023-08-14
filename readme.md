@@ -15,7 +15,7 @@ Por quê? ...porque sim!
 
 ```bash
 git clone https://github.com/wansleynery/BI-SankhyaJS.git
-cd dashboard
+cd BI-SankhyaJS
 ```
 
 2. Depois, MANUALMENTE, crie um ZIP com o conteúdo do diretório raiz (ou use um comando caso esteja no Linux):

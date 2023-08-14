@@ -14,7 +14,7 @@ Por quê? ...porque sim!
 1. Primeiro, clone o repositório e entre no diretório:
 
 ```bash
-git clone github.com/blablabla/dashboard.git
+git clone https://github.com/wansleynery/BI-SankhyaJS.git
 cd dashboard
 ```
 

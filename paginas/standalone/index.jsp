@@ -81,6 +81,7 @@
                     var localHostname    = window.location.hostname;
                     var ngAppName        = "DynaformLauncherApp";
                     var isSecurityDomain = false;
+                    var VSS              = null;
                     var workspace;
 
                     try {
